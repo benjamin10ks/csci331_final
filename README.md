@@ -36,4 +36,4 @@ THEN
 
 `npm run dev` to start client server and DB server
 
-That's it!
+That's it!!
